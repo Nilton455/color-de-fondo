@@ -1,0 +1,11 @@
+/* selecciona todo el elemento html*/
+/*color de fondo sin degradado
+*{
+    background-color: chartreuse;
+}
+*/
+
+/* color de fondo degradado*/
+body{
+    background-image: radial-gradient(circle at 50% 50%, #ffff44 0, #ffff32 25%, #ddd320 50%, #a9a80d 75%, #7b8100 100%);
+}
